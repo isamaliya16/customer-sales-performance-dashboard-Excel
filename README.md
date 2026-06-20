@@ -4,7 +4,7 @@ This project delivers a highly interactive **Customer Sales Performance Dashboar
 
 ---
 
-![Customer Sales Performance Dashboard](dashboard_preview.png)
+![Customer Sales Performance Dashboard](images/Dashboard_images.png)
 ---
 ## 🎯 Dashboard Objectives
 
