@@ -6,6 +6,7 @@ This project delivers a highly interactive **Customer Sales Performance Dashboar
 
 ![Customer Sales Performance Dashboard](images/Dashboard_images.png)
 ---
+---
 ## 🎯 Dashboard Objectives
 
 The primary goal of this dashboard is to empower business teams with actionable insights on:
